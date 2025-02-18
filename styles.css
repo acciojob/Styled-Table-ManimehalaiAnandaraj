@@ -1,1 +1,18 @@
 /* your code */
+.table{
+	height:100px;
+	width:150px;
+	
+	border-spacing:1px;
+}
+#hea{
+	background-color:navy;
+	color:white;
+}
+#r1,#r3{
+	text-align:center;
+}
+#r2,#r4{
+	text-align:center;
+	background-color:lightpink;
+}
